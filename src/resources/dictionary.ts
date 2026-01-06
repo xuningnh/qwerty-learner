@@ -3993,7 +3993,7 @@ const japaneseExam: DictionaryResource[] = [
     description: '中文翻译',
     category: '日语学习',
     tags: ['基础'],
-    url: '/dicts/JapVocabList.N3_zh.json',
+    url: '/dicts/JapVocabList.N3_zh_kana.json',
     length: 1830,
     language: 'romaji',
     languageCategory: 'ja',
